@@ -1,0 +1,11 @@
+node_modules
+out
+dist
+release
+.env
+.env.local
+server/.env
+server/node_modules
+resources/yt-dlp.exe
+resources/ffmpeg.exe
+*.log
